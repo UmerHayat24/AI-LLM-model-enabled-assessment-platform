@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^2.2.0",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.16.0",
+        "sass": "^1.56.1"
+    },
+    "dependencies": {
+        "@szhsin/react-accordion": "^1.2.3",
+        "classnames": "^2.3.2",
+        "dotenv": "^16.3.1",
+        "formik": "^2.4.5",
+        "react-bootstrap": "^2.8.0",
+        "vite": "^3.0.0",
+        "yup": "^1.3.1"
+    }
+}
